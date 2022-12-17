@@ -59,5 +59,3 @@ One of the limitations of the dataset is that the first table/graph was not filt
 Create graph that is filtered for the US only.
 
 Create a graph or table that visualizes the goals set at launch dates per month so that one can tell what goals were set on the more successful May launch dates.
-
-> Written with [StackEdit](https://stackedit.io/).
